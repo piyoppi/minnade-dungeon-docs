@@ -4,3 +4,12 @@
 
 - アニメーションをつくる
 - 作ったアニメーションをアイテムに適用する
+
+## アニメーションの作成
+マップ上部のボタンをおします。
+
+![An image](/images/animations/show-animation-window-navbar.png)
+
+追加ボタンを押します
+
+
