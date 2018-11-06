@@ -8,7 +8,7 @@
 ## アニメーションの作成
 マップ上部のボタンをおします。
 
-![An image](/images/animations/show-animation-window-navbar.png)
+![アニメーションの追加](./images/show-animation-window-navbar.png)
 
 追加ボタンを押します
 
