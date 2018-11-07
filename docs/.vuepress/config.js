@@ -4,6 +4,7 @@ module.exports = {
   title: 'みんなでつくるダンジョン：ヘルプ',
   description: '二次元マッププラットフォーム「みんなでつくるダンジョン」の使い方',
   port:'8765',
+  base: '/minnade-dungeon-help'
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -11,7 +12,6 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/guide/',
       '/guide/animation/',
       '/guide/item/',
       '/guide/map/',
