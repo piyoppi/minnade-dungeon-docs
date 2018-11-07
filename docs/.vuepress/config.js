@@ -13,7 +13,10 @@ module.exports = {
       '/',
       '/guide/',
       '/guide/animation/',
-      '/guide/item/'
+      '/guide/item/',
+      '/guide/map/',
+      '/guide/avatar/',
+      '/guide/texture/',
     ]
   }
 }
