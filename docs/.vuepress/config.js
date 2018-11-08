@@ -15,6 +15,7 @@ module.exports = {
       '/guide/animation/',
       '/guide/item/',
       '/guide/map/',
+      '/guide/connector/',
       '/guide/avatar/',
       '/guide/texture/',
     ]
