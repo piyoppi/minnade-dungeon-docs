@@ -38,7 +38,7 @@
 |:--:|:--:|:--|
 |![ログアウト](./images/logout-button.png)|ログアウト|ログイン中のアカウントからログアウトします|
 |![マップ設定](./images/map-settings-button.png)|マップ設定|マップの大きさを設定します|
-|![テクスチャ管理](./images/texture-button.png)|テクスチャ管理|テクスチャを管理します|
+|![画像管理](./images/texture-button.png)|画像管理|画像を管理します|
 |![アイテム追加](./images/item-button.png)|アイテム追加|アイテムを追加します|
 |![アニメーション管理](./images/animation-button.png)|アニメーション管理|アニメーションを追加・削除します|
 |![マップの保存](./images/save-button.png)|保存|編集中のマップを保存します|
