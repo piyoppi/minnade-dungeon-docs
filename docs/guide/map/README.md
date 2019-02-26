@@ -93,6 +93,20 @@
 
 ![背景設定ウインドウ](./images/background-window.png)
 
+## BGMの設定
+
+:::tip おしらせ
+BGMとしてつかいたい[サウンドを予め登録](/guide/sound/)しておく必要があります
+:::
+
+ツールバーの「マップの設定」をクリックします。
+
+![マップの設定](./images/map-settings-navbar.png)
+
+表示された画面でBGMを設定できます。
+
+![マップ設定画面](./images/map-settings-window.png)
+
 ## つくったマップであそんでみる
 ![このマップを探検するボタン](./images/play-map-navbar.png)
 作ったマップをキャラクタで探検するには、ツールバーから「このマップを探検する」をクリックします。
