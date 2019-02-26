@@ -7,8 +7,7 @@ module.exports = {
   base: '/minnade-dungeon-docs/',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' }
+      { text: 'トップへ', link: '/' },
     ],
     sidebar: [
       '/',
