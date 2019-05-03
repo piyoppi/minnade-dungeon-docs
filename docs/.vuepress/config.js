@@ -18,6 +18,7 @@ module.exports = {
       '/guide/connector/',
       '/guide/avatar/',
       '/guide/sound/',
+      '/guide/plugin/',
     ]
   }
 }
