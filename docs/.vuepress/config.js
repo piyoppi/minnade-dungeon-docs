@@ -11,6 +11,7 @@ module.exports = {
     ],
     sidebar: [
       '/',
+      '/guide/tutorial/',
       '/guide/texture/',
       '/guide/animation/',
       '/guide/item/',
