@@ -20,6 +20,7 @@ module.exports = {
       '/guide/avatar/',
       '/guide/sound/',
       '/guide/plugin/',
+      '/guide/sample-map/',
     ]
   }
 }
