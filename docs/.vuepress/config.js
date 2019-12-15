@@ -22,6 +22,7 @@ module.exports = {
       '/guide/plugin/',
       '/guide/counter/',
       '/guide/sample-map/',
+      '/guide/how-to-smartphone/',
     ]
   }
 }
