@@ -1,7 +1,7 @@
 module.exports = {
   head: [
   ],
-  title: 'みんなでつくるダンジョン：ヘルプ',
+  title: 'みんなでつくるダンジョン',
   description: '二次元マッププラットフォーム「みんなでつくるダンジョン」の使い方',
   port:'8765',
   base: '/minnade-dungeon-docs/',
