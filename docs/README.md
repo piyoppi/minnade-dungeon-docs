@@ -20,6 +20,10 @@
 ヘルプページはまだやや作りかけ感があるので、わからないことがあれば「ヘルプ更新して！」と作者（[Twitter](https://twitter.com/piyorinpa)）に言ってみてください。
 :::
 
+## こんなかんじにマップをつくります
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90dTCJ7Esfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## サポートするブラウザ
 以下のブラウザの動作をサポートします（それ以外のブラウザの動作不具合については基本的にサポートしません）
 
