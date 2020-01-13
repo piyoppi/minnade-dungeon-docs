@@ -28,6 +28,7 @@ module.exports = {
       '/guide/counter/',
       '/guide/sample-map/',
       '/guide/how-to-smartphone/',
+      '/guide/registeration-textures/'
     ]
   }
 }
