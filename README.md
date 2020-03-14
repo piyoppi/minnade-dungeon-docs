@@ -16,6 +16,8 @@ npm run docs:dev
 
 開発サーバは `http://localhost:8765/` でアクセスできます。
 
-## このリポジトリで作成されたページの閲覧
+## デプロイ
 
-コミット権をもつひと（=@piyoppi）の任意のタイミングで https://piyoppi.github.io/minnade-dungeon-docs/ へデプロイされます。
+masterブランチへのマージによって、このリポジトリの `gh-pages` ブランチにビルド済みページが作成されます。
+
+
