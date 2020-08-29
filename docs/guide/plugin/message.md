@@ -75,6 +75,11 @@ https://garakuta-toolbox.com
 よろしくね！
 ```
 
-- URLと認識できない文字列が与えられている
+- URLが不正
 
+```
+こんにちは！
+---
+ttps://garakuta-toolbox.com
+```
 :::
