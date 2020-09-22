@@ -13,23 +13,37 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'トップへ', link: '/' },
+      { text: 'ドキュメント', link: '/guide/' },
+      { text: 'チュートリアル', link: '/tutorial/' },
     ],
-    sidebar: [
-      '/',
-      '/guide/tutorial/',
-      '/guide/texture/',
-      '/guide/animation/',
-      '/guide/item/',
-      '/guide/item-collection/',
-      '/guide/map/',
-      '/guide/connector/',
-      '/guide/avatar/',
-      '/guide/sound/',
-      '/guide/plugin/',
-      '/guide/counter/',
-      '/guide/sample-map/',
-      '/guide/how-to-smartphone/',
-      '/guide/registeration-textures/'
-    ]
+    sidebar: {
+      '/guide/': [
+        '/guide/',
+        'texture/',
+        'animation/',
+        'item/',
+        'item-collection/',
+        'map/',
+        'connector/',
+        'avatar/',
+        'sound/',
+        'plugin/',
+        'counter/',
+        'sample-map/',
+        'how-to-smartphone/',
+        'registeration-textures/'
+      ],
+      '/tutorial/': [
+        '/tutorial/',
+        'signup/',
+        'parts/',
+        'upload-image/',
+        'animation/',
+        'play/',
+        'plugin/',
+        'connector/',
+        'publish/',
+      ]
+    }
   }
 }
