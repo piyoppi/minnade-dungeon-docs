@@ -14,7 +14,7 @@
 - [アイテム](../item-collection)を拾ったり、[いいねカウンタ](../counter/)が設置されているマップでいいねできます
 - [素材を公開](../registeration-textures/)できます
 
-## ログインする
+## マップの編集画面を表示する
 
 登録が終わったら、ログインをします。[ログイン画面はこちら](https://dungeon.garakuta-toolbox.com/maps)
 
