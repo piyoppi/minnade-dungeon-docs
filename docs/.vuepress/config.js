@@ -40,6 +40,7 @@ module.exports = {
         'upload-image/',
         'animation/',
         'play/',
+        'parts-settings/',
         'plugin/',
         'connector/',
         'publish/',
