@@ -31,7 +31,8 @@ module.exports = {
         'counter/',
         'sample-map/',
         'how-to-smartphone/',
-        'registeration-textures/'
+        'registeration-textures/',
+        'thanks/'
       ],
       '/tutorial/': [
         '/tutorial/',
