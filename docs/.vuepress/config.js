@@ -24,6 +24,7 @@ module.exports = {
         'item/',
         'item-collection/',
         'map/',
+        'tiled/',
         'connector/',
         'avatar/',
         'sound/',
