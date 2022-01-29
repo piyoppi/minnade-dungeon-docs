@@ -19,15 +19,15 @@ module.exports = {
     sidebar: {
       '/guide/': [
         '/guide/',
+        'map/',
+        'item/',
         'texture/',
         'animation/',
-        'item/',
-        'item-collection/',
-        'map/',
         'tiled/',
         'connector/',
         'avatar/',
         'sound/',
+        'item-collection/',
         'plugin/',
         'counter/',
         'how-to-smartphone/',
