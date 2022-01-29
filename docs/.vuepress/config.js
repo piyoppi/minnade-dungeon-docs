@@ -30,7 +30,6 @@ module.exports = {
         'sound/',
         'plugin/',
         'counter/',
-        'sample-map/',
         'how-to-smartphone/',
         'registeration-textures/',
         'thanks/'
