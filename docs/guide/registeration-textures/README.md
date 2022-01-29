@@ -1,4 +1,4 @@
-# 画像素材の登録と公開
+# 画像素材の公開
 
 ![画像の登録と公開](./images/share-image-header.png)
 
