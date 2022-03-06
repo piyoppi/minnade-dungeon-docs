@@ -6,6 +6,10 @@
 
 ![重力制御](./images/gravity.gif)
 
+## プラグインの場所
+
+「移動 / 移動処理」 -> 「重力制御」
+
 ## つかいかた
 
 ![プラグインの追加](./images/gravity_plugin.png)

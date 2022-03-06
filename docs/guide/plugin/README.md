@@ -10,7 +10,7 @@
 - [直線往復移動](linear_move)
 - [はしご](ladder)
 - [重力制御](gravity)
-- 指定方向すりぬけ
+- [指定方向すりぬけ](oneway)
 - [スイッチ](switch)
 - [スイッチで衝突判定切替](colision_switch)
 - [ラベル](label)

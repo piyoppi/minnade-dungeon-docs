@@ -4,11 +4,17 @@
 
 ![プラグイン](./images/item_switch_plugin.gif)
 
+[サンプルマップはこちら](https://dungeon.garakuta-toolbox.com/maps/213)
+
 （[ラベルプラグイン](./label)と組み合わせて使います）
 （ドアの開閉には[スイッチで衝突判定切替](./colision_switch)プラグインをつかっています）
 
 このようにプラグインが設定されています。
 ![プラグイン](./images/switch_with_label.png)
+
+## プラグインの場所
+
+「スイッチ制御」 -> 「パーツが触れたら押されるスイッチ」
 
 ## つかいかた
 
