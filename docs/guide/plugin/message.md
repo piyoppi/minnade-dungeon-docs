@@ -4,6 +4,8 @@
 
 ![メッセージ](./images/message.png)
 
+[サンプルマップはこちら](https://dungeon.garakuta-toolbox.com/maps/268)
+
 ## プラグインの場所
 
 「メッセージ表示」 -> 「メッセージ表示」
